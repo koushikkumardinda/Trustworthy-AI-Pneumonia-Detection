@@ -1,4 +1,4 @@
-# Trustworthy XAI for Multi-Class Pneumonia Detection
+# Trustworthy AI for Multi-Class Pneumonia Detection
 
 This repository contains the official implementation of my M.Tech research project focused on building a trustworthy and explainable AI framework for medical imaging. The pipeline classifies chest X-rays into three categories (Normal, Bacterial Pneumonia, and Viral Pneumonia) while providing uncertainty quantification and visual counterfactual explanations.
 
